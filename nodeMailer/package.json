@@ -1,0 +1,24 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud",
+  "main": "server.js",
+  "author": "henri",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@trifoia/zcrmsdk": "^0.1.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.2",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4",
+    "mongoose-auto-increment": "^5.0.1",
+    "node-zoho": "0.0.39",
+    "nodemailer": "^6.2.1",
+    "nodemon": "^1.18.11",
+    "zcrm-oauth2": "^1.3.0",
+    "zoho": "^1.0.0"
+  }
+}
