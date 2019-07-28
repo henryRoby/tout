@@ -1,0 +1,11 @@
+#cont-acceuil{
+   
+    background-size: cover;
+    height: 500px !important;
+    display:flex;
+    align-items: center;
+    top:50px;
+}
+h2{
+    color:#fff;
+}
